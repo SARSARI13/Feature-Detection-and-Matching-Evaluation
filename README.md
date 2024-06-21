@@ -8,7 +8,7 @@ This project evaluates various feature detection and matching methods using diff
 
 ## Prerequisites
 
-- **Python:** The script has been developed and tested with Python 3.8.2.
+- **Python:** The script has been developed and tested with Python 3.8.2
 
 - **Libraries:** The following libraries are required:
   - numpy 1.21.6
